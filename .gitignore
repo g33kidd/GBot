@@ -1,2 +1,4 @@
 node_modules/
 .vscode/
+deploy.sh
+developers-discord-firebase-adminsdk.json

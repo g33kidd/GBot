@@ -17,5 +17,8 @@
   },
   "devDependencies": {
     "@types/node": "^10.0.8"
+  },
+  "now": {
+    "alias": "google-developers-discord-gbot"
   }
 }
